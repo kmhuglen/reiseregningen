@@ -7,7 +7,7 @@
 	<resource id="postalCodes" url="resources/postoffice_codes.xml" />
 	<resource id="domicialNumberCodes" url="resources/domicialnumbers.xml" />
 	
-	<resource id="previous_app_version" url="http://reiseregningen.azurewebsites.net/app/src/" />
+	<resource id="previous_app_version" url="https://skjema.reiseregningen.no/v2" />
 	
 	<resource id="webservices" url="http://reiseregningen.azurewebsites.net/ws/TravelExpWS/TravelExpense.asmx" />
 	<resource id="cross-domain-policy" url="http://reiseregningen.azurewebsites.net/app/src/crossdomain.xml" />
