@@ -7,12 +7,12 @@
 	<resource id="postalCodes" url="resources/postoffice_codes.xml" />
 	<resource id="domicialNumberCodes" url="resources/domicialnumbers.xml" />
 	
-	<resource id="previous_app_version" url="https://skjema.reiseregningen.no/v2" />
+	<resource id="previous_app_version" url="http://reiseregningen.azurewebsites.net/app/src/" />
 	
-	<resource id="webservices" url="https://skjema.reiseregningen.no/TravelExpWS/TravelExpense.asmx" />
-	<resource id="cross-domain-policy" url="https://skjema.reiseregningen.no/crossdomain.xml" />
-	<resource id="ws_connection" url="https://skjema.reiseregningen.no/TravelExpWS/GetStoredData.aspx" />
-	<resource id="ws_xml_uploader" url="https://skjema.reiseregningen.no/TravelExpWS/Uploader.ashx" />
+	<resource id="webservices" url="http://reiseregningen.azurewebsites.net/ws/TravelExpWS/TravelExpense.asmx" />
+	<resource id="cross-domain-policy" url="http://reiseregningen.azurewebsites.net/app/src/crossdomain.xml" />
+	<resource id="ws_connection" url="http://reiseregningen.azurewebsites.net/ws/TravelExpWS/GetStoredData.aspx" />
+	<resource id="ws_xml_uploader" url="http://reiseregningen.azurewebsites.net/ws/TravelExpWS/Uploader.ashx" />
 	
 	<!--resource id="webservices" url="http://reisetest.makingwaves.no/TravelExpWS/TravelExpense.asmx" />
 	<resource id="cross-domain-policy" url="http://reisetest.makingwaves.no/crossdomain.xml" />
