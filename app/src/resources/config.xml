@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<resource id="languages" url="resources/languages.xml" />
-	<resource id="rateRules" url="resources/rateRules.xml" />
-	<resource id="ratesInternational" url="resources/ratesInternational.xml" />
-	<resource id="currencyCodes" url="resources/currency_codes.xml" />
-	<resource id="postalCodes" url="resources/postoffice_codes.xml" />
-	<resource id="domicialNumberCodes" url="resources/domicialnumbers.xml" />
+	<resource id="languages" url="/app/src/resources/languages.xml" />
+	<resource id="rateRules" url="/app/src/resources/rateRules.xml" />
+	<resource id="ratesInternational" url="/app/src/resources/ratesInternational.xml" />
+	<resource id="currencyCodes" url="/app/src/resources/currency_codes.xml" />
+	<resource id="postalCodes" url="/app/src/resources/postoffice_codes.xml" />
+	<resource id="domicialNumberCodes" url="/app/src/resources/domicialnumbers.xml" />
 	
 	<resource id="previous_app_version" url="https://skjema.reiseregningen.no/v2" />
 	
 	<resource id="webservices" url="http://reiseregningen.azurewebsites.net/ws/TravelExpWS/TravelExpense.asmx" />
-	<resource id="cross-domain-policy" url="http://reiseregningen.azurewebsites.net/app/src/crossdomain.xml" />
+	<resource id="cross-domain-policy" url="http://reiseregningen.azurewebsites.net/app/src/resources/crossdomain.xml" />
 	<resource id="ws_connection" url="http://reiseregningen.azurewebsites.net/ws/TravelExpWS/GetStoredData.aspx" />
 	<resource id="ws_xml_uploader" url="http://reiseregningen.azurewebsites.net/ws/TravelExpWS/Uploader.ashx" />
 	
